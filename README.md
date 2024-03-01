@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Gabriel Kavata</h1>
+<h1 align="center">Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="36px">, I'm Gabriel Kavata</h1>
 <h3 align="center">A System Analysis and Development student from Brazil</h3>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/kavvata/kavvata/output/github-contribution-grid-snake-dark.svg" alt="snake-game animation for commits." /> </p>
-
-
-<section style="display: flex; justify-content: center; gap: 2rem;">
+<section>
   <div align="center">
     <h3>Languages:</h3>
     <p>
@@ -37,5 +34,6 @@
   </div>
 </section>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavvata&show_icons=true&theme=dark&locale=en&layout=compact" alt="kavvata" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavvata&show_icons=true&theme=dark&locale=en&layout=compact" alt="kavvata" />
+<p align="center"> <img src="https://raw.githubusercontent.com/kavvata/kavvata/output/github-contribution-grid-snake-dark.svg" alt="snake-game animation for commits." />
 
