@@ -1,5 +1,5 @@
 <h1 align="center">Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="36px">, I'm Gabriel Kavata</h1>
-<h3 align="center">A Back-end developer student from Brazil</h3>
+<h3 align="center">A Back-end developer from Brazil</h3>
 
 <section>
   <div align="center">
