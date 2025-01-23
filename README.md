@@ -35,5 +35,4 @@
 </section>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavvata&show_icons=true&theme=dark&locale=en&layout=compact" alt="kavvata" />
-<p align="center"> <img src="https://raw.githubusercontent.com/kavvata/kavvata/output/github-contribution-grid-snake-dark.svg" alt="snake-game animation for commits." />
 
