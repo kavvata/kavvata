@@ -15,7 +15,7 @@
 > Developer powered by curiosity.
 > I build systems that scale, automate, and stay readable years later.
 
-- 🧱 Currently working with **Django**, **Spring Boot** and **Laravel**
+- 🧱 Currently building with **Django**, **Spring Boot** and **Laravel**
 - 🧩 Advocate for **Programming as Theory Building** — software as state of human understanding
 - ⚙️ Passion for **automation** and **design coherence**
 - 🧘 Linux nerd with a soft spot for shell scripting and automations
